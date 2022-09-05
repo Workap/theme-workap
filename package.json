@@ -17,5 +17,11 @@
         "path": "./themes/Workap theme-color-theme.json"
       }
     ]
-  }
+  },
+
+  "repository": {
+    "url": "https://github.com/Workap/theme-workap.git",
+    "type": "git"
+  },
+  "publisher": "Theme-Workap"
 }
