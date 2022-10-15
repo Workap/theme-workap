@@ -2,7 +2,7 @@
   "name": "workap",
   "displayName": "Workap",
   "description": "workap",
-  "version": "1.0.1",
+  "version": "1.5.1",
   "engines": {
     "vscode": "^1.71.0"
   },

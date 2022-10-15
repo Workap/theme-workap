@@ -7,7 +7,15 @@
 		"sideBarTitle.foreground": "#f053be",
 		"activityBar.background": "#000",
 		"sideBar.background": "#000000",
-		"statusBar.background": "#0b4354",
+		"statusBar.background": "#0a0a0a",
+		"titleBar.activeBackground": "#000",
+		"statusBar.border": "#f704ca",
+		"activityBar.foreground": "#9010a7",
+		"menu.background": "#000",
+		"menu.foreground": "#9010a7",
+		"menu.border": "#0fb2a7",
+		"statusBar.debuggingBackground": "#9010a7",
+		"statusBar.foreground": "#d700fcb8"
 	},
 	"tokenColors": [
 		{
